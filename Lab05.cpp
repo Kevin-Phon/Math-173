@@ -17,5 +17,5 @@ int main(){
     double radius;
     std:: cin >> radius;
 
-    std:: cout << "The area and curcumference of a circle are " << area(radius) << " and " <<           circumference(radius) << ", respectively. \n";
+    std:: cout << "The area and curcumference of a circle are " << area(radius) << " and " << circumference(radius) << ", respectively. \n";
 }
